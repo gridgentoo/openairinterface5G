@@ -1,3 +1,5 @@
+<b>git clone https://gitlab.eurecom.fr/oai/openairinterface5g.git</b>
+
 # OpenAirInterface License #
 
 OpenAirInterface is under OpenAirInterface Software Alliance license.
